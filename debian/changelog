@@ -1,3 +1,9 @@
+emoncms-module-rfm12pi (1.0.1) unstable; urgency=low
+
+  * Packaging changes only
+
+ -- Dave McCraw <dave@mccraw.co.uk>  Fri, 04 Apr 2014 23:10:30 +0000
+
 emoncms-module-rfm12pi (1.0) unstable; urgency=low
 
   * Initial debian packaged release of the "raspberrypi" module for emoncms
