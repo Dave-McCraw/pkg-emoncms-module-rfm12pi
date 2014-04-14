@@ -1,3 +1,9 @@
+emoncms-module-rfm12pi (1.0.1-2) unstable; urgency=low
+
+  Patch for the filepath issue in rfm12piphp 
+
+ -- Dave McCraw <dave@mccraw.co.uk>  Mon, 14 Apr 2014 18:29:10 +0000
+
 emoncms-module-rfm12pi (1.0.1-1) unstable; urgency=low
 
   Fixes two issues - the inclusion of EmonLogger to allow the service to start, 
